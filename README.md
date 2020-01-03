@@ -5,6 +5,7 @@
 This application features the ability to store Notables (messages) in a task-like list.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703666-23a9e280-2d93-11ea-9160-e2698cf86ad4.png)
 
 ## Application Compiling
 
